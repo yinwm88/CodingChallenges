@@ -1,6 +1,6 @@
 <div align="center"> 
   
-  # **🐸  LeetCode Problems  🐸** 
+  # ** LeetCode Problems  ** 
 
 </div>
 Repository to update my progress in LeetCode.

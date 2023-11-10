@@ -1,0 +1,32 @@
+                      
+                      LeetCode
+                  Minimum Path Sum
+            Wong Mestas Angelica Yin Len 
+                      317160741  
+                       Golang
+
+1.Para correr el programa:
+
+
+2.Reporte:
+
+Suena a implementar el algoritmo de dijkstra para encontrar
+el camino con el peso minimo de todos los posibles caminos,
+solo que en de vez de implementarlo para una grafica, 
+lo implementamos para una grid de mxn.
+
+Notemos que el camino debe ser desde el lado izquierdo superior 
+al lado derecho inferior, por lo tanto, lo caminos se realizaran 
+moviendose ya sea arriba, abajo, pero unicamente a la derecha, ya que 
+un paso a la izquierda no tendria sentido, seria como regresarse
+(SOLO ES UNA IDEA).
+
+
+
+3.Explicación de la solucion:
+
+
+4.Captura de pantalla:
+
+
+

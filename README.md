@@ -1,6 +1,9 @@
 <div align="center"> 
   
-  # **LeetCode Problems** 
+  # **Competitive pogramming Challenges* 
 
 </div>
-Repository to update my progress in LeetCode.
+Repository to update my progress.
+
+ https://leetcode.com/u/yinwm88/
+

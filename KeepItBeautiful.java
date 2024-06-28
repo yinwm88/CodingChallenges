@@ -16,7 +16,6 @@ public class KeepItBeautiful {
     private static String keepItBeautiful(Scanner scan) {
         StringBuilder result = new StringBuilder();
         int min=0, x=0, max=0;
-        boolean hayMin = false;
         int q = scan.nextInt()-1;
         int firstQuery = scan.nextInt();
         max = firstQuery;

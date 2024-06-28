@@ -25,15 +25,13 @@ public class KeepItBeautiful {
             q--;
             x = scan.nextInt();
             result.append("1");
-            if(x > max){
+            if(x > max)
                 max = x;
-            }
-            if(x < max){
+            if(x < max)
                 if(x<=firstQuery){
                     min = x;
                     break;
                 }
-            }
         }
         while(q>0){
             q--;

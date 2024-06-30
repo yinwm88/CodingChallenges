@@ -15,7 +15,7 @@ public class MatrixStabilization{
             int[][] ans = stabilizingMatrix(scan, n, m);
 
             for(int i = 0; i<n; i++){
-                for(int j = 0; j<m; i++)
+                for(int j = 0; j<m; j++)
                     stabilizedMatrix.append(ans[i][j]+ " ")   
                 stabilizedMatrix.append("\n");
             }
@@ -27,7 +27,7 @@ public class MatrixStabilization{
     private int[][] stabilizingMatrix(Scanner scan, int row, int columns){
         int[][] matrixToStabilize = new int[n][m];
         for(int i = 0; i<n; i++){
-            for(int j = 0; j<m; i++)
+            for(int j = 0; j<m; j++)
                 matrixToStabilize[i][j] = scan.nextInt();
             scan.nextLine();
         }
@@ -35,6 +35,6 @@ public class MatrixStabilization{
     }
 
     private int[][] applyStabilizationAlgorithm(int[][] arr){
-        
+
     }
 }
